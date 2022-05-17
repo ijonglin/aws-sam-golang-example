@@ -5,3 +5,6 @@
 /vendor
 /worker
 /packaged.yaml
+/.idea
+go.sum
+go.mod
